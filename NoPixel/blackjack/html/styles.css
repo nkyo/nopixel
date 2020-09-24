@@ -1,0 +1,17 @@
+#message {
+    width: 10%;
+    display: none;
+    margin: 0 auto;
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    /* transform: translateX(-50%); */
+    background-color: rgba(38, 113, 212, 0.8);
+    color: rgb(220,220,220);
+    padding: 1em;
+    border-radius: 5px;
+    font-size: .8rem;
+    text-align: center;
+    /* border: 2px solid red; */
+    /* height: 30px; */
+}
